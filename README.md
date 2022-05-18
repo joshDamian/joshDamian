@@ -4,8 +4,8 @@
 **joshDamian/joshDamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 🔭 I’m currently working on [Open Spaces](https://github.com/joshDamian/open-spaces)
-- 🌱 I’m currently learning [Go](https://golang.org/)
+- 🔭 I’m currently working on [Bloc-Tickets](https://bloctickets.co)
+<!-- 🌱 I’m currently learning [Go](https://golang.org/)
 - 👯 I’m looking to collaborate on Building programmable solutions with [Laravel](https://laravel.com) | [Go](https://golang.org/)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
