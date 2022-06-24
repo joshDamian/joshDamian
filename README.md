@@ -23,6 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NFT Marketplace: 5 best markets to buy and sell your nfts](https://blog.blocverse.com/top-5-best-nft-marketplace-to-buy-and-sell-your-nfts/)
+- [A Step-by-Step Approach to Making an NFT from scratch.](https://blog.blocverse.com/a-step-by-step-approach-to-creating-an-nft-from-scratch/)
+- [A detailed comparison of Solana Vs. Ethereum- which is better?](https://blog.blocverse.com/a-detailed-comparison-of-solana-vs-ethereum-which-is-better/)
+- [Top five best crypto wallets you should know.](https://blog.blocverse.com/top-five-best-crypto-wallets-you-should-know/)
+- [Blockchain and digital assets: five ways to understand to how they interact](https://blog.blocverse.com/understanding-how-blockchain-and-digital-assets-interact-in-five-ways/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
