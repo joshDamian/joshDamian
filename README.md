@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pros and Cons of pre-sale NFT whitelisting.](https://blog.blocverse.com/how-to-get-nft-whitelisting-during-nft-grinding/)
 - [Top 5 NFT Tokens to look out for at the marketplace.](https://blog.blocverse.com/top-5-nft-tokens-you-should-know/)
 - [NFT Marketplace: 5 best markets to buy and sell your nfts](https://blog.blocverse.com/5-best-nft-markets-to-buy-and-sell-nfts/)
 - [A Step-by-Step Approach to Making an NFT from scratch.](https://blog.blocverse.com/a-step-by-step-approach-to-creating-an-nft-from-scratch/)
 - [A detailed comparison of Solana Vs. Ethereum- which is better?](https://blog.blocverse.com/a-detailed-comparison-of-solana-vs-ethereum-which-is-better/)
-- [Top five best crypto wallets you should know.](https://blog.blocverse.com/top-five-best-crypto-wallets-you-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
