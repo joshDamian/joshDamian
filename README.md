@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding The History Of Bitcoin And Its Evolution](https://blog.blocverse.com/the-history-and-evolution-of-bitcoin/)
 - [Crypto Exchanges: 3 main types, plus top exchanges](https://blog.blocverse.com/crypto-exchanges-3-main-types-plus-top-exchanges/)
 - [Five Most Trusted Cryptocurrency Wallets for you today](https://blog.blocverse.com/top-five-most-trusted-crypto-wallets/)
 - [Digital Assets-Five Ways to Manage Your Digital Assets](https://blog.blocverse.com/ways-to-manage-your-digital-assets/)
 - [The Pros and Cons of pre-sale NFT whitelisting.](https://blog.blocverse.com/how-to-get-nft-whitelisting-during-nft-grinding/)
-- [Top 5 NFT Tokens to look out for at the marketplace.](https://blog.blocverse.com/top-5-nft-tokens-you-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
