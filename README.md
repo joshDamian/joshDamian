@@ -24,6 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free)
+- [Crypto Mining: The Overview, Requirements, And Benefits.](https://blog.blocverse.com/overview-requirements-and-benefits-of-crypto-mining/)
+- [Understanding The History Of Bitcoin And Its Evolution](https://blog.blocverse.com/the-history-and-evolution-of-bitcoin/)
+- [Crypto Exchanges: 3 main types, plus top exchanges](https://blog.blocverse.com/crypto-exchanges-3-main-types-plus-top-exchanges/)
+- [Five Most Trusted Cryptocurrency Wallets for you today](https://blog.blocverse.com/top-five-most-trusted-crypto-wallets/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
