@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography: A Beginner’s Guide](https://blog.blocverse.com/cryptography-a-beginners-guide/)
 - [5 Ways to Protect Digital Assets on The Blockchain](https://blog.blocverse.com/5-ways-to-protect-digital-assets/)
 - [The Importance Of Tokenomics In DeFi](https://blog.blocverse.com/what-is-tokenomics-in-defi/)
 - [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free)
 - [Crypto Mining: The Overview, Requirements, And Benefits.](https://blog.blocverse.com/overview-requirements-and-benefits-of-crypto-mining/)
-- [Understanding The History Of Bitcoin And Its Evolution](https://blog.blocverse.com/the-history-and-evolution-of-bitcoin/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
