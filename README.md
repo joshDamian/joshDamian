@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DeFi Tokenomics – The importance of token distribution in DeFi](https://blog.blocverse.com/defi-tokenomics-the-importance-of-token-distribution-in-defi/)
+- [How Well Do You Know Web3 – Here Are Five Ways To Play Safe](https://blog.blocverse.com/how-well-do-you-know-web3-here-are-five-ways-to-play-safe/)
+- [Here Are Five Ways To Play Safe In Web 3.0](https://blog.blocverse.com/ways-to-play-safe-in-web-3-0/)
 - [The Ethereum Merge: An Overview and Its Importance](https://blog.blocverse.com/an-overview-on-the-merge/)
 - [Study Cases To Why DeFi Bridges Break](https://blog.blocverse.com/why-does-defi-bridges-break/)
-- [Cryptography: A Beginner’s Guide](https://blog.blocverse.com/cryptography-a-beginners-guide/)
-- [5 Ways to Protect Digital Assets on The Blockchain](https://blog.blocverse.com/5-ways-to-protect-digital-assets/)
-- [The Importance Of Tokenomics In DeFi](https://blog.blocverse.com/what-is-tokenomics-in-defi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
