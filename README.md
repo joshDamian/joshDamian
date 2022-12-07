@@ -23,11 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [DeFi Tokenomics – The importance of token distribution in DeFi](https://blog.blocverse.com/defi-tokenomics-the-importance-of-token-distribution-in-defi/)
-- [How Well Do You Know Web3 – Here Are Five Ways To Play Safe](https://blog.blocverse.com/how-well-do-you-know-web3-here-are-five-ways-to-play-safe/)
-- [Here Are Five Ways To Play Safe In Web 3.0](https://blog.blocverse.com/ways-to-play-safe-in-web-3-0/)
-- [The Ethereum Merge: An Overview and Its Importance](https://blog.blocverse.com/an-overview-on-the-merge/)
-- [Study Cases To Why DeFi Bridges Break](https://blog.blocverse.com/why-does-defi-bridges-break/)
+- [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
