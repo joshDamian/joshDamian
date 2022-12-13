@@ -15,7 +15,7 @@
 
 - 📝 I'm starting a blog at [https://dev-josh.hashnode.dev/](https://dev-josh.hashnode.dev/)
 
-- 💬 Ask me about **Solidity, React, PHP**
+- 💬 Ask me about **Solidity, React**
 
 - 📫 How to reach me **avoajajoshua@gmail.com**
 
