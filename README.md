@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BOTTO: POWERING COLLABORATIVE ART THROUGH AI AND DECENTRALISATION](https://blog.blocverse.com/botto-powering-collaborative-art-through-ai-and-decentralisation/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &lpar;DAILY TIME FRAME&rpar;](https://blog.blocverse.com/blocverse-market-analysis/)
 - [Dapp Review – OpenSea](https://blog.blocverse.com/dapp-review-opensea/)
 - [DeFi Tokenomics – The importance of token distribution in DeFi](https://blog.blocverse.com/defi-tokenomics-the-importance-of-token-distribution-in-defi/)
 - [How Well Do You Know Web3 – Here Are Five Ways To Play Safe](https://blog.blocverse.com/how-well-do-you-know-web3-here-are-five-ways-to-play-safe/)
-- [Here Are Five Ways To Play Safe In Web 3.0](https://blog.blocverse.com/ways-to-play-safe-in-web-3-0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
