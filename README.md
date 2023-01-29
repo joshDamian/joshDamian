@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MARKET LINGO](https://blog.blocverse.com/market-lingo/)
 - [ERCs AND EIPs EXPLAINED](https://blog.blocverse.com/ercs-and-eips-explained/)
 - [BOTTO: POWERING COLLABORATIVE ART THROUGH AI AND DECENTRALISATION](https://blog.blocverse.com/botto-powering-collaborative-art-through-ai-and-decentralisation/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &lpar;DAILY TIME FRAME&rpar;](https://blog.blocverse.com/blocverse-market-analysis/)
 - [Dapp Review – OpenSea](https://blog.blocverse.com/dapp-review-opensea/)
-- [DeFi Tokenomics – The importance of token distribution in DeFi](https://blog.blocverse.com/defi-tokenomics-the-importance-of-token-distribution-in-defi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
