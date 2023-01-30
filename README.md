@@ -24,7 +24,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [BLOC-BLOG BI-WEEKLY WEB3 NEWS UPDATES!](https://blog.blocverse.com/bloc-blog-bi-weekly-web3-news-updates/)
-- [MARKET LINGO](https://blog.blocverse.com/market-lingo/)
+- [TRADING LINGO](https://blog.blocverse.com/market-lingo/)
 - [ERCs AND EIPs EXPLAINED](https://blog.blocverse.com/ercs-and-eips-explained/)
 - [BOTTO: POWERING COLLABORATIVE ART THROUGH AI AND DECENTRALISATION](https://blog.blocverse.com/botto-powering-collaborative-art-through-ai-and-decentralisation/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &lpar;DAILY TIME FRAME&rpar;](https://blog.blocverse.com/blocverse-market-analysis/)
