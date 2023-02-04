@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DAPP REVIEW – SKIFF](https://blog.blocverse.com/dapp-review-skiff/)
 - [HOW BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE ARE REVOLUTIONIZING THE FUTURE](https://blog.blocverse.com/how-blockchain-and-artificial-intelligence-are-revolutionizing-the-future/)
 - [BLOCVERSE MARKET ANALYSIS- ETH/USD, BNB/USD &amp; XRP/USD&lpar;DAILY TIME FRAME&rpar;](https://blog.blocverse.com/blocverse-market-analysis-eth-usd-bnb-usd-xrp-usddaily-time-frame/)
 - [BI-WEEKLY WEB3 NEWS UPDATES!](https://blog.blocverse.com/bloc-blog-bi-weekly-web3-news-updates/)
 - [TRADING LINGO](https://blog.blocverse.com/market-lingo/)
-- [ERCs AND EIPs EXPLAINED](https://blog.blocverse.com/ercs-and-eips-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
