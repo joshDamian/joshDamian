@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; MATIC/USD &lpar;DAILY AND 4HR TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-3/)
 - [BI-WEEKLY WEB3 NEWS UPDATES! – 12/02/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-12-02-2023/)
 - [REGENERATIVE FINANCE](https://blog.blocverse.com/regenerative-finance/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;4HR AND DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-2/)
 - [Encrypted Emails and Data Security with SKiff: Leveraging Blockchain Power](https://blog.blocverse.com/encrypted-emails-data-security-skiff/)
-- [HOW BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE ARE REVOLUTIONIZING THE FUTURE](https://blog.blocverse.com/how-blockchain-and-artificial-intelligence-are-revolutionizing-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
