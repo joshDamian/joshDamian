@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [BLOCKCHAIN FORKING](https://blog.blocverse.com/blockchain-forking/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-4/)
 - [Opencord: The web3 social platform built for DAOs](https://blog.blocverse.com/opencord-the-web3-social-platform-built-for-daos/)
 - [BLOCKCHAIN NODES EXPLAINED](https://blog.blocverse.com/blog-blocverse-com-blockchain-nodes-explained/)
 - [BLOCKCHAIN ANALYTICAL TOOL: ARKHAM INTELLIGENCE](https://blog.blocverse.com/arkham-intelligence/)
+- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; MATIC/USD &lpar;DAILY AND 4HR TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
