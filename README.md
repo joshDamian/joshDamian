@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BI-WEEKLY WEB3 NEWS UPDATES! – 06/03/2023](https://blog.blocverse.com/bi-weekly-web3-news/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; SAND/USD &lpar;4HR TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd/)
 - [BLOCKCHAIN FORKING](https://blog.blocverse.com/blockchain-forking-2/)
 - [ON-CHAIN ANALYTICAL TOOL: NANSEN.AI](https://blog.blocverse.com/on-chain-analytical-tool-nansen-ai/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/market-analysis-27-02-23/)
-- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-4/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
