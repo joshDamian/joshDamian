@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MULTI-SIG WALLETS](https://blog.blocverse.com/blog-blocverse-com-multi-sig-wallets/)
 - [Blur.io – Pro NFT Trading Platform](https://blog.blocverse.com/dapp-review-blur-io/)
 - [BI-WEEKLY WEB3 NEWS UPDATES! – 06/03/2023](https://blog.blocverse.com/bi-weekly-web3-news/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; SAND/USD &lpar;4HR TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd/)
 - [BLOCKCHAIN FORKING](https://blog.blocverse.com/blockchain-forking-2/)
-- [ON-CHAIN ANALYTICAL TOOL: NANSEN.AI](https://blog.blocverse.com/on-chain-analytical-tool-nansen-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
