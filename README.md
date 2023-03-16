@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ARCHIMEDES](https://blog.blocverse.com/dapp-review-archimedes/)
+- [ARCHIMEDES FINANCE](https://blog.blocverse.com/dapp-review-archimedes/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/market-analysis-13-03-2023/)
 - [MULTI-SIG WALLETS](https://blog.blocverse.com/blog-blocverse-com-multi-sig-wallets/)
 - [Blur.io – Pro NFT Trading Platform](https://blog.blocverse.com/dapp-review-blur-io/)
