@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BLOCKCHAIN-ENABLED IDENTITY MANAGEMENT SYSTEM](https://blog.blocverse.com/blockchain-enabled-management-system/)
 - [BI-WEEKLY WEB3 NEWS UPDATES! – 18/03/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-18-03-2023/)
 - [ARCHIMEDES FINANCE](https://blog.blocverse.com/dapp-review-archimedes/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/market-analysis-13-03-2023/)
 - [MULTI-SIG WALLETS](https://blog.blocverse.com/blog-blocverse-com-multi-sig-wallets/)
-- [Blur.io – Pro NFT Trading Platform](https://blog.blocverse.com/dapp-review-blur-io/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
