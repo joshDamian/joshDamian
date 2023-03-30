@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [FORTA NETWORK](https://blog.blocverse.com/forta-network/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;4-HOUR TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd/)
 - [RADIANT CAPITAL – THE OMNICHAIN MONEY MARKET](https://blog.blocverse.com/radiant-capital-the-omnichain-money-market/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY AND WEEKLY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-20-03-2023/)
 - [BLOCKCHAIN-ENABLED IDENTITY MANAGEMENT SYSTEM](https://blog.blocverse.com/blockchain-enabled-management-system/)
-- [BI-WEEKLY WEB3 NEWS UPDATES! – 18/03/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-18-03-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
