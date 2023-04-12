@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;4 HOUR &amp; TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-4-hour-time-frames/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; WEEKLY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-weekly-timeframes/)
 - [ETHEREUM ERC-4337 STANDARD](https://blog.blocverse.com/ethereum-erc-4337-standard/)
 - [BI-WEEKLY WEB3 NEWS UPDATES – 01/04/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-01-04-2023/)
 - [DAPP REVIEW – FURUCOMBO](https://blog.blocverse.com/dapp-review-furucombo/)
-- [FORTA NETWORK](https://blog.blocverse.com/forta-network/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
