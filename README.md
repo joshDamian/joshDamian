@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; 4-HOUR TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-4-hour-time-frames/)
 - [BLOCVERSE MARKET ANALYSIS- ARB/USD &amp; BTC/USD &lpar;4hr TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-arb-usd-btc-usd-4hr-time-frames/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-time-frames/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;4 HOUR &amp; TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-4-hour-time-frames/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; WEEKLY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-weekly-timeframes/)
-- [ETHEREUM ERC-4337 STANDARD](https://blog.blocverse.com/ethereum-erc-4337-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
