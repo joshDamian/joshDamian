@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [TOKENIZING REAL ESTATE: THE STANDARD TOKEN PROTOCOL](https://blog.blocverse.com/tokenizing-real-estate-the-standard-token-protocol/)
 - [ETHER FINANCE](https://blog.blocverse.com/ether-finance/)
 - [zkEVM: ENHANCING ETHEREUM’S SCALABILITY AND PRIVACY](https://blog.blocverse.com/zkevm-enhancing-ethereums-scalability-and-privacy/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; 4-HOUR TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-4-hour-time-frames/)
 - [BLOCVERSE MARKET ANALYSIS- ARB/USD &amp; BTC/USD &lpar;4hr TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-arb-usd-btc-usd-4hr-time-frames/)
-- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; TIME FRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-time-frames/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
