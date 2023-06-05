@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [EXPLORING OFF-RAMP AND ON-RAMP CRYPTO SOLUTIONS: BRIDGING TRADITIONAL AND DIGITAL ECONOMIES](https://blog.blocverse.com/exploring-off-ramp-and-on-ramp-crypto-solutions-bridging-traditional-and-digital-economies/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-timeframes/)
 - [BI-WEEKLY WEB3 NEWS UPDATES! – 04/06/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-04-06-2023/)
 - [Pendle Finance – Defi’s Tokenized Yield Trading Platform](https://blog.blocverse.com/pendle-finance-defis-tokenized-yield-trading-platform/)
 - [REAL DEFI YIELD: MAXIMIZING PASSIVE INCOME IN DECENTRALIZED FINANCE](https://blog.blocverse.com/real-defi-yield-maximizing-passive-income-in-decentralized-finance/)
-- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY &amp; 4-HOUR TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-4-hour-timeframes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
