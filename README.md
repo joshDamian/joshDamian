@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Search for On-Chain Stability and Yields: Sturdy Finance](https://blog.blocverse.com/the-search-for-on-chain-stability-and-yields-sturdy-finance/)
 - [LENDING AND BORROWING IN DEFI](https://blog.blocverse.com/lending-and-borrowing-in-defi/)
 - [EXPLORING OFF-RAMP AND ON-RAMP CRYPTO SOLUTIONS: BRIDGING TRADITIONAL AND DIGITAL ECONOMIES](https://blog.blocverse.com/exploring-off-ramp-and-on-ramp-crypto-solutions-bridging-traditional-and-digital-economies/)
 - [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-timeframes/)
 - [BI-WEEKLY WEB3 NEWS UPDATES! – 04/06/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-04-06-2023/)
-- [Pendle Finance – Defi’s Tokenized Yield Trading Platform](https://blog.blocverse.com/pendle-finance-defis-tokenized-yield-trading-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
