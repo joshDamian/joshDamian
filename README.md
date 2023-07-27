@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CONCEPT OF BRC-20 TOKEN STANDARD](https://blog.blocverse.com/concept-of-brc-20-token-standard/)
 - [DApp Review of Guild.xyz – A Platform Revolutionizing the Creator Economy](https://blog.blocverse.com/dapp-review-of-guild-xyz-a-platform-revolutionizing-the-creator-economy/)
 - [The Search for On-Chain Stability and Yields: Sturdy Finance](https://blog.blocverse.com/the-search-for-on-chain-stability-and-yields-sturdy-finance/)
 - [LENDING AND BORROWING IN DEFI](https://blog.blocverse.com/lending-and-borrowing-in-defi/)
 - [EXPLORING OFF-RAMP AND ON-RAMP CRYPTO SOLUTIONS: BRIDGING TRADITIONAL AND DIGITAL ECONOMIES](https://blog.blocverse.com/exploring-off-ramp-and-on-ramp-crypto-solutions-bridging-traditional-and-digital-economies/)
-- [BLOCVERSE MARKET ANALYSIS- BTC/USD &amp; ETH/USD &lpar;DAILY TIMEFRAMES&rpar;](https://blog.blocverse.com/blocverse-market-analysis-btc-usd-eth-usd-daily-timeframes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
