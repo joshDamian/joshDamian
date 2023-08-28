@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DEVELOPING AND DEPLOYING SMART CONTRACTS WITH FOUNDRY](https://blog.blocverse.com/developing-and-deploying-smart-contracts-with-foundry/)
 - [A GUIDE TO HYBRID BLOCKCHAINS](https://blog.blocverse.com/a-guide-to-hybrid-blockchains/)
 - [PROOF OF PERSONHOOD EXPLAINED](https://blog.blocverse.com/proof-of-personhood-explained/)
 - [UNDERSTANDING SMART CONTRACTS](https://blog.blocverse.com/understanding-smart-contracts/)
 - [CONCEPT OF BRC-20 TOKEN STANDARD](https://blog.blocverse.com/concept-of-brc-20-token-standard/)
-- [DApp Review of Guild.xyz – A Platform Revolutionizing the Creator Economy](https://blog.blocverse.com/dapp-review-of-guild-xyz-a-platform-revolutionizing-the-creator-economy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
