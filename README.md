@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [UNDERSTANDING PARACHAINS](https://blog.blocverse.com/understanding-parachains/)
 - [DEVELOPING AND DEPLOYING SMART CONTRACTS WITH FOUNDRY](https://blog.blocverse.com/developing-and-deploying-smart-contracts-with-foundry/)
 - [A GUIDE TO HYBRID BLOCKCHAINS](https://blog.blocverse.com/a-guide-to-hybrid-blockchains/)
 - [PROOF OF PERSONHOOD EXPLAINED](https://blog.blocverse.com/proof-of-personhood-explained/)
 - [UNDERSTANDING SMART CONTRACTS](https://blog.blocverse.com/understanding-smart-contracts/)
-- [CONCEPT OF BRC-20 TOKEN STANDARD](https://blog.blocverse.com/concept-of-brc-20-token-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
