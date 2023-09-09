@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Solidity, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://devjosh.me](https://devjosh.me)
+- 👨‍💻 All of my projects are available on [My Portofolio](https://joshuaavoaja.netlify.app/)
 
 - 📝 I'm starting a blog at [https://dev-josh.hashnode.dev/](https://dev-josh.hashnode.dev/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **avoajajoshua@gmail.com**
 
-- 📄 Know about my experiences [https://devjosh.me/about](https://devjosh.me/about)
+- 📄 Know about my experiences [https://joshuaavoaja.netlify.app/about](https://joshuaavoaja.netlify.app/about)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
