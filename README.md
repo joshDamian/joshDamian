@@ -23,7 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free)
+- [UNDERSTANDING PARACHAINS](https://blog.blocverse.com/understanding-parachains/)
+- [DEVELOPING AND DEPLOYING SMART CONTRACTS WITH FOUNDRY](https://blog.blocverse.com/developing-and-deploying-smart-contracts-with-foundry/)
+- [A GUIDE TO HYBRID BLOCKCHAINS](https://blog.blocverse.com/a-guide-to-hybrid-blockchains/)
+- [PROOF OF PERSONHOOD EXPLAINED](https://blog.blocverse.com/proof-of-personhood-explained/)
+- [UNDERSTANDING SMART CONTRACTS](https://blog.blocverse.com/understanding-smart-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
