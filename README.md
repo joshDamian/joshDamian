@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HOW BLOCKCHAIN IS REVOLUTIONIZING SOCIAL NETWORKS: EXPLORING THE POTENTIAL OF FRIEND.TECH](https://blog.blocverse.com/exploring-the-potential-of-friend-tech/)
 - [SMART CONTRACT INSURANCE](https://blog.blocverse.com/smart-contract-insurance/)
 - [Tools and Tips to Start Developing Smart Contracts in Solidity](https://blog.blocverse.com/tools-and-tips-to-start-developing-smart-contracts-in-solidity/)
 - [DeFi Bribes: The Battle for Liquidity Supremacy](https://blog.blocverse.com/defi-bribes-the-battle-for-liquidity-supremacy/)
 - [UNDERSTANDING PARACHAINS](https://blog.blocverse.com/understanding-parachains/)
-- [DEVELOPING AND DEPLOYING SMART CONTRACTS WITH FOUNDRY](https://blog.blocverse.com/developing-and-deploying-smart-contracts-with-foundry/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
