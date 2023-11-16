@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RPC Nodes: The Building Blocks of Web3 Infrastructure](https://blog.blocverse.com/rpc-nodes-the-building-blocks-of-web3-infrastructure/)
 - [Web3 Aggregators: Navigating the New Landscape](https://blog.blocverse.com/web3-aggregators-navigating-the-new-landscape/)
 - [HOW TO BUILD A CROSS-CHAIN NFT USING HARDHAT AND AXELAR](https://blog.blocverse.com/how-to-build-a-cross-chain-nft-using-hardhat-and-axelar/)
 - [HOW TO HOST YOUR WEBSITE ON IPFS](https://blog.blocverse.com/how-to-host-your-website-on-ipfs/)
 - [BLOCKCHAIN AS A SERVICE &lpar;BaaS&rpar; EXPLAINED](https://blog.blocverse.com/blockchain-as-a-service-baas-explained/)
-- [HOW BLOCKCHAIN IS REVOLUTIONIZING SOCIAL NETWORKS: EXPLORING THE POTENTIAL OF FRIEND.TECH](https://blog.blocverse.com/exploring-the-potential-of-friend-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
