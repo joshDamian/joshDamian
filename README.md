@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SUSTAINABLE YIELD IN DEFI: THE EMERGING ROLE OF REAL-WORLD ASSETS &lpar;RWA&rpar; IN SUSTAINABLE YIELD](https://blog.blocverse.com/sustainable-yield-in-defi-the-emerging-role-of-real-world-assets-rwa-in-sustainable-yield/)
 - [BI-WEEKLY WEB3 NEWS UPDATES – 18/11/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-18-11-2023/)
 - [RPC Nodes: The Building Blocks of Web3 Infrastructure](https://blog.blocverse.com/rpc-nodes-the-building-blocks-of-web3-infrastructure/)
 - [Web3 Aggregators: Navigating the New Landscape](https://blog.blocverse.com/web3-aggregators-navigating-the-new-landscape/)
 - [HOW TO BUILD A CROSS-CHAIN NFT USING HARDHAT AND AXELAR](https://blog.blocverse.com/how-to-build-a-cross-chain-nft-using-hardhat-and-axelar/)
-- [HOW TO HOST YOUR WEBSITE ON IPFS](https://blog.blocverse.com/how-to-host-your-website-on-ipfs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
