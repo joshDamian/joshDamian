@@ -23,11 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [STARKNET BLOCKCHAIN](https://blog.blocverse.com/starknet-blockchain/)
-- [DATA OWNERSHIP AND CONTROL IN WEB3 FROM A UX DESIGN PERSPECTIVE](https://blog.blocverse.com/data-ownership-and-control-in-web3-from-a-ux-design-perspective/)
-- [SUSTAINABLE YIELD IN DEFI: THE EMERGING ROLE OF REAL-WORLD ASSETS &lpar;RWA&rpar; IN SUSTAINABLE YIELD](https://blog.blocverse.com/sustainable-yield-in-defi-the-emerging-role-of-real-world-assets-rwa-in-sustainable-yield/)
-- [BI-WEEKLY WEB3 NEWS UPDATES – 18/11/2023](https://blog.blocverse.com/bi-weekly-web3-news-updates-18-11-2023/)
-- [RPC Nodes: The Building Blocks of Web3 Infrastructure](https://blog.blocverse.com/rpc-nodes-the-building-blocks-of-web3-infrastructure/)
+- [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
