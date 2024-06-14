@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Empowering African finance using stablecoins: Duo Wallet V2](https://blog.blocverse.com/empowering-african-finance-using-stablecoins-duo-wallet-v2/)
+- [Empowering African Finance Using Stablecoins: Duo Wallet V2](https://blog.blocverse.com/empowering-african-finance-using-stablecoins-duo-wallet-v2/)
 - [A CASE STUDY ON CRYPTOCURRENCY PAYMENT IN NIGERIA](https://blog.blocverse.com/a-case-study-on-cryptocurrency-payment-in-nigeria/)
 - [STARKNET BLOCKCHAIN](https://blog.blocverse.com/starknet-blockchain/)
 - [DATA OWNERSHIP AND CONTROL IN WEB3 FROM A UX DESIGN PERSPECTIVE](https://blog.blocverse.com/data-ownership-and-control-in-web3-from-a-ux-design-perspective/)
