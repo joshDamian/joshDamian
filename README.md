@@ -7,28 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/devjosh__" target="blank"><img src="https://img.shields.io/twitter/follow/devjosh__?logo=twitter&style=for-the-badge" alt="devjosh__" /></a> </p>
 
-- 🔭 I’m currently working on [TixHive](https://tixhive.com)
+- 🔭 I’m currently working on [Azza](https://www.useazza.com/)
 
-- 🌱 I’m currently learning **Solidity, Typescript**
-
-- 👨‍💻 All of my projects are available on [My Portofolio](https://joshuaavoaja.netlify.app/)
-
-- 📝 I'm starting a blog at [https://dev-josh.hashnode.dev/](https://dev-josh.hashnode.dev/)
-
-- 💬 Ask me about **Solidity, React**
+- 💬 Ask me about **TypeScript, Solidity, React, Account Abstraction, UX**
 
 - 📫 How to reach me **avoajajoshua@gmail.com**
 
 - 📄 Know about my experiences [https://joshuaavoaja.netlify.app/about](https://joshuaavoaja.netlify.app/about)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free)
+<!-- - [Hosting a Node.js application on Vercel for free](https://dev-josh.hashnode.dev/hosting-a-nodejs-application-on-vercel-for-free) -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/joshdamian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joshdamian" height="30" width="40" /></a>
 <a href="https://twitter.com/devjosh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjosh__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-josh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@devjosh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devjosh01" height="30" width="40" /></a>
